@@ -13,4 +13,5 @@ Commercial Development in South Shore
 - http://www.jstor.org.proxy.uchicago.edu/stable/4227965?seq=1#page_scan_tab_contents
 - http://journals.ama.org/doi/abs/10.1509/jmkr.42.1.109.56884
 - http://ageconsearch.umn.edu/bitstream/37625/2/tr08-01a.pdf
+- http://scholar.google.com/scholar?start=0&hl=en&as_sdt=400005&sciodt=0,14&cites=11310837539758896113&scipsc=
 
